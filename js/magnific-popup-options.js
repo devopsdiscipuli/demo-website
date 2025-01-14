@@ -1,7 +1,7 @@
 $(document).ready(function() {
   // MagnificPopup
   var magnifPopup = function() {
-    $('.popup-image').magnificPopup({
+    $('.image-popup').magnificPopup({
       type: 'image',
       removalDelay: 300,
       mainClass: 'mfp-with-zoom',
